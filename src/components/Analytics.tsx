@@ -1,4 +1,3 @@
-import React from 'react'
 import Desktop  from '../assets/Desktop.jpg'
 const Analytics = () => {
   return (

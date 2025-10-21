@@ -1,4 +1,3 @@
-import React from 'react'
 import profile from "../assets/profile.png"
 import user from '../assets/user.png'
 import group from '../assets/group.png'
